@@ -6,19 +6,16 @@
 # Android客户端
 
   | 描述 | 链接 | 
-  |:----------|:---|
+  | ------------- |:-------------:|
   |🔥|[Quantumult](https://github.com/quantumulter/quantumulter.github.io/releases)|
 
-  | 描述 | 链接 | 
-  |:----------|:---|
+  
   |🔥|[ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)|
 
-  | 描述 | 链接 | 
-  |:----------:|:---:|
+  
   |🔥|[Shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)|
 
-  | 描述 | 链接 | 
-  |:----------:|:---:|
+  
   |🔥|[ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
 
 
