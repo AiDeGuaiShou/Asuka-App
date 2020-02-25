@@ -47,4 +47,5 @@
 | 联通性| 依赖IP扫描 | 更多通道 |
 | 🔥 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  | ShadowsocksrR | 
 | 🔥 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  | ShadowsocksrR | 
+|🔥|[ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
 
