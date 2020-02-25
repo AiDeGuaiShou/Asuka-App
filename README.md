@@ -1,5 +1,14 @@
 一些客户端的收集与整理
 
+
+# ALL全平台客户端
+
+  | 描述 | 链接 | 
+  | ------------- |:-------------:|
+  |🔥|  [v2ray-all](https://github.com/v2ray/v2ray-core/releases)|
+  
+  
+  
 # Android客户端
 
   | 描述 | 链接 | 
