@@ -4,10 +4,10 @@
 
   | 描述 | 链接 | 
   | ------------- |:-------------:|
-    |🔥|[Quantumult](https://github.com/quantumulter/quantumulter.github.io/releases)|
-    |🔥|[ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)|
-    |🔥|[Shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)|
-    |🔥|[ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
+  |🔥|  [Quantumult](https://github.com/quantumulter/quantumulter.github.io/releases)|
+  |🔥|  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)|
+  |🔥|  [Shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)|
+  |🔥|  [ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
 
 
 
@@ -18,7 +18,7 @@
 
   | 描述        | 下载链接   | 
   | ------------- |:-------------:| 
-    |🔥|[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) | 
+  |🔥|  [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) | 
 
 
 
@@ -28,7 +28,7 @@
 
    | 描述        | 下载链接   | 
    | ------------- |:-------------:| 
-     | 🔥 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  |
-     | 🔥 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  | 
-     |🔥|[ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
+   |🔥|  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  |
+   |🔥|  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  | 
+   |🔥|  [ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
 
