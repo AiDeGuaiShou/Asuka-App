@@ -42,11 +42,8 @@
 |:----------:|:---:|
 |🔥|[ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)|
 
-| 模块        | GAE_proxy   | X-Tunnel  |  
+| 描述        | 下载链接   | 名字  |  
 | ------------- |:-------------:| :-----:| 
 | 联通性| 依赖IP扫描 | 更多通道 |
-| 速度 | 流畅 | 下载快速，稍微延迟 | 
-| 安全性| Google可看到通信内容 | 支持完整https加密 |  
-| 易用 | 需部署服务端，绑定信用卡，导入证书 | 简单  |
-| 兼容性| 部分网站不兼容 | 无问题 |
-| 收费  | 免费 | 付费 |  
+| 速度 | 流畅 | [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) | 
+
