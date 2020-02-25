@@ -7,8 +7,6 @@
   |:-------------:|:-------------:|
   |🔥|  [v2ray-all](https://github.com/v2ray/v2ray-core/releases)|
   
-  
-  
 # Android客户端
 
   | 描述 | 链接 | 
@@ -19,23 +17,15 @@
   |🔥|  [ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
   |🔥|  [v2rayNG](https://github.com/2dust/v2rayNG/releases)|
 
-
-
-
-
 # Mac客户端
 
   | 描述        | 下载链接   | 
   |:-------------:|:-------------:| 
   |🔥|  [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) | 
 
-
-
-
-
 # Windows客户端
 
-   | 描述        | 下载链接   | 
-   |:-------------:|:-------------:| 
-   |🔥|  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  |
+  | 描述        | 下载链接   | 
+  |:-------------:|:-------------:| 
+  |🔥|  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  |
 
