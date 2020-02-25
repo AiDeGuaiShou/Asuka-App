@@ -31,7 +31,7 @@
 
 | 描述        | 下载链接   | 名字  |  
 | ------------- |:-------------:| :-----:| 
-|🔥|[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)| | ShadowsocksX-NG-R |
+|🔥|[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) | ShadowsocksX-NG-R |
 
 
 
