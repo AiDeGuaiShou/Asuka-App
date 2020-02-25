@@ -15,11 +15,11 @@
 |🔥|[ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)|
 
 | 描述 | 链接 | 
-|:----------|:---|
+|:----------:|:---:|
 |🔥|[Shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)|
 
 | 描述 | 链接 | 
-|:----------|:---|
+|:----------:|:---:|
 |🔥|[ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
 
 
@@ -29,7 +29,7 @@
 # Mac客户端
 
 | 描述 | 链接 | 
-|:----------|:---|
+|:----------:|:---:|
 |🔥|[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)|
 
 
@@ -39,7 +39,7 @@
 # Windows客户端
 
 | 描述 | 链接 | 
-|:----------|:---|
+|:----------:|:---:|
 |🔥|[ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)|
 
 | 模块        | GAE_proxy   | X-Tunnel  |  
