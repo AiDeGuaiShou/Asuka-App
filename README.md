@@ -8,7 +8,7 @@
   |🔥|  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)|
   |🔥|  [Shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)|
   |🔥|  [ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
-
+  |🔥|  [v2rayNG](https://github.com/2dust/v2rayNG/releases)|
 
 
 
