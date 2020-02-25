@@ -38,6 +38,4 @@
    | 描述        | 下载链接   | 
    | ------------- |:-------------:| 
    |🔥|  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  |
-   |🔥|  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  | 
-   |🔥|  [ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
 
