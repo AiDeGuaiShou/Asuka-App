@@ -45,5 +45,5 @@
 | 描述        | 下载链接   | 名字  |  
 | ------------- |:-------------:| :-----:| 
 | 联通性| 依赖IP扫描 | 更多通道 |
-| 速度 | 流畅 | [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) | 
+| 速度 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  | ShadowsocksrR | 
 
