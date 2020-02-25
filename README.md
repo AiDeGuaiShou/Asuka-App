@@ -16,9 +16,9 @@
 
 # Mac客户端
 
-    | 描述        | 下载链接   | 
-    | ------------- |:-------------:| 
-    |🔥|[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) | 
+  | 描述        | 下载链接   | 
+  | ------------- |:-------------:| 
+  |🔥|[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) | 
 
 
 
