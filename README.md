@@ -8,14 +8,8 @@
   | 描述 | 链接 | 
   | ------------- |:-------------:|
   |🔥|[Quantumult](https://github.com/quantumulter/quantumulter.github.io/releases)|
-
-  
   |🔥|[ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)|
-
-  
   |🔥|[Shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)|
-
-  
   |🔥|[ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
 
 
