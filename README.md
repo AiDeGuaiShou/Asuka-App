@@ -29,3 +29,4 @@
   |:-------------:|:-------------:| 
   |🔥|  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  |
 
+[v2rayNG](https://github.com/2dust/v2rayNG/releases)|
