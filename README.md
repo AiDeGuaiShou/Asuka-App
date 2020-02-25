@@ -19,9 +19,9 @@
 
 # Mac客户端
 
-| 描述        | 下载链接   | 名字  |  
-| ------------- |:-------------:| :-----:| 
-|🔥|[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) | ShadowsocksX-NG-R |
+| 描述        | 下载链接   | 
+| ------------- |:-------------:| 
+|🔥|[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) | 
 
 
 
@@ -29,10 +29,9 @@
 
 # Windows客户端
 
-| 描述        | 下载链接   | 名字  |  
-| ------------- |:-------------:| :-----:| 
-| 联通性| 依赖IP扫描 | 更多通道 |
-| 🔥 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  | ShadowsocksrR | 
-| 🔥 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  | ShadowsocksrR | 
+| 描述        | 下载链接   | 
+| ------------- |:-------------:| 
+| 🔥 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  |
+| 🔥 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  | 
 |🔥|[ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
 
