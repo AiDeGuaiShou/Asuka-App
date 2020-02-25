@@ -1,6 +1,3 @@
-# 欢迎来到
-
-# APP-Asuka
 一些客户端的收集与整理
 
 # Android客户端
@@ -19,9 +16,9 @@
 
 # Mac客户端
 
-| 描述        | 下载链接   | 
-| ------------- |:-------------:| 
-|🔥|[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) | 
+    | 描述        | 下载链接   | 
+    | ------------- |:-------------:| 
+    |🔥|[ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) | 
 
 
 
@@ -29,9 +26,9 @@
 
 # Windows客户端
 
-| 描述        | 下载链接   | 
-| ------------- |:-------------:| 
-| 🔥 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  |
-| 🔥 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  | 
-|🔥|[ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
+     | 描述        | 下载链接   | 
+     | ------------- |:-------------:| 
+     | 🔥 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  |
+     | 🔥 |  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  | 
+     |🔥|[ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
 
