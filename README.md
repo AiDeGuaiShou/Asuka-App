@@ -32,4 +32,4 @@
       [链接啊](https://github.com/AiDeGuaiShou/APP-Asuka.github.io/blob/master/%E9%93%BE%E6%8E%A5%E5%9C%A8%E8%BF%99%E9%87%8C)
 
 </b><br>
-<a href="https://github.com/killgcd/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/AiDeGuaiShou/Photo/master/mainvisualSS01.jpg" 
+<a href="https://github.com/killgcd/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/AiDeGuaiShou/Photo/master/mainvisualSS01.jpg" alt="搬瓦ks"></a>
