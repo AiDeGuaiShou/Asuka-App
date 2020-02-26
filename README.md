@@ -15,11 +15,11 @@
        # v2ray-ALL全平台客户端
   </h1>
 
-<h1 align="center">
+
   | 描述 | 链接 | 
   |:-------------:|:-------------:|
   |🔥|  [v2ray-all](https://github.com/v2ray/v2ray-core/releases)|
-  </h1>
+  
   
 # Android客户端
 
