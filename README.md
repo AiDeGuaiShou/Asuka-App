@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://reactnative.dev/">
-    React Native
+  <a href="baidu.com">
+    科学上网客户端
   </a>
 </h1>
 
