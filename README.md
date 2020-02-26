@@ -48,4 +48,4 @@
      
 
 <br>
-<a href="https://github.com/killgcd/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/AiDeGuaiShou/Photo/master/mainvisualSS01.jpg" alt="不要看啊！"></a>
+<a href="https://github.com/killgcd/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/AiDeGuaiShou/Photo/master/mainvisualSS01.jpg" alt="不要看啊"></a>
