@@ -4,6 +4,7 @@
   </a>
 </h1>
 
+<a href="https://996.icu"><img src="https://img.shields.io/badge/support-996.icu-red.svg"></a>
 
 <h1 align="center">
   <a href="https://baidu.com">
