@@ -5,7 +5,11 @@
 </h1>
 
 
-一些客户端的收集与整理
+<h1 align="center">
+  <a href="https://baidu.com">
+    一些收集与整理
+  </a>
+</h1>
 
 
 # v2ray-ALL全平台客户端
