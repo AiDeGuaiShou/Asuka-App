@@ -33,13 +33,16 @@
   |🔥|  [ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
   |🔥|  [v2rayNG](https://github.com/2dust/v2rayNG/releases)|
   |🔥|  [ShadowsocksD](https://github.com/TheCGDF/SSD-Android/releases)  |
-# Mac客户端
-
+<h1 align="center">
+       # Mac客户端
+  </h1>
   | 描述 | 链接 |
   |:-------------:|:-------------:| 
   |🔥|  [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) | 
 
-# Windows客户端
+<h1 align="center">
+       # Windows客户端
+  </h1>
 
   | 描述 | 链接 |
   |:-------------:|:-------------:| 
