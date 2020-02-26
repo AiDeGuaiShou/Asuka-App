@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="baidu.com">
+  <a href="https://baidu.com">
     科学上网客户端
   </a>
 </h1>
