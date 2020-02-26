@@ -49,3 +49,8 @@
 
 <br>
 <a href="https://github.com/killgcd/justmysocks/blob/master/README.md"> <img src =“ https://raw.githubusercontent.com/AiDeGuaiShou/Photo/master/mainvisualSS01.jpg “ alt =”搬瓦ks“> </a>
+
+
+</b><br>
+<a href="https://github.com/killgcd/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/AiDeGuaiShou/Photo/master/mainvisualSS01.jpg" alt="搬瓦工翻墙 Just My Socks"></a>
+<a href="https://github.com/killgcd/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/AiDeGuaiShou/Photo/master/mainvisualSS01.jpg" 
