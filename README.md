@@ -36,6 +36,7 @@
 <h1 align="center">
        # Mac客户端
   </h1>
+  
   | 描述 | 链接 |
   |:-------------:|:-------------:| 
   |🔥|  [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) | 
