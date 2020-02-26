@@ -32,7 +32,7 @@
   |🔥|  [Shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)|
   |🔥|  [ShadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android/releases)|
   |🔥|  [v2rayNG](https://github.com/2dust/v2rayNG/releases)|
-
+  |🔥|  [ShadowsocksD](https://github.com/TheCGDF/SSD-Android/releases)  |
 # Mac客户端
 
   | 描述 | 链接 |
@@ -44,7 +44,7 @@
   | 描述 | 链接 |
   |:-------------:|:-------------:| 
   |🔥|  [ShadowsocksrR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  |
-
+  |🔥|  [ShadowsocksD](https://github.com/TheCGDF/SSD-Windows/releases)  |
      
 
 <b>推荐：</b><br>
